@@ -16,4 +16,10 @@ var store = [{
         "tags": ["Biohack","Self"],
         "url": "/biohack/daily-routine/",
         "teaser": null
+      },{
+        "title": "Useful link",
+        "excerpt":"I collected some useful links from r/Biohackers and discord communities. Some pharmacological guidances are progressive and shall be taken with a grain of salt.     Pharmacological Approaches to Decelerate Aging: A Promising Path   Biohacking Bible aka Biohacking 101  ","categories": ["Biohack"],
+        "tags": ["Biohack","Experimental"],
+        "url": "/biohack/useful-link/",
+        "teaser": null
       }]

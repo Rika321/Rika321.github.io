@@ -6,7 +6,7 @@ categories:
 tags:
   - Biohack
   - Self
-last_modified_at: 2024-01-08
+last_modified_at: 2024-01-17
 ---
 
 I am still experimenting a good personal daily routine
@@ -21,6 +21,11 @@ I used to neglect the importance of the morning hours. To live a heathier life, 
   5. LLLR therapy and meditation for 4 minutes
   6. Take a walk outside (bonus point to practice basketball)
    
+## Daytime
+I am trying to be productive and accomplish more tasks:
+  1. Take a nap
+  2. Take a walk after lunch (Insulin, glucose control)
+  3. Exercise and sauna before dinner (More BDNF)
 
 ## Winddown routine:
 I want to improve my sleep quality with the following routines:
